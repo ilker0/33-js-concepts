@@ -34,7 +34,16 @@ Bu depo için tüm çeviriler aşağıda listelenecektir::
 - [İspanyolca](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
 - [Türkçe](https://github.com/ilker0/33-js-concepts) — İlker Demir
 - [Rusça](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-
+- [Lehçe](https://github.com/lipnyCzlowiek/33-js-concepts) — Dawid Lipinski
+- [Farsça](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh 
+- [Endonezya](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+- [Fransızca](https://github.com/robinmetral/33-concepts-js) — Robin Métral 
+- [Hintçe](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
+- [Yunanca](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
+- [Japonca](https://github.com/oimo23/33-js-concepts) — oimo23
+- [Almanca](https://github.com/burhannn/33-js-concepts) — burhannn
+- [Ukrayna](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
+- [Sinhala](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
 
 
 ---
